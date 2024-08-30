@@ -1,0 +1,11 @@
+<svg  class="circle-ctrl" width="98" height="40" viewBox="0 0 98 40" fill="none">
+<g class="circle-right">
+  <circle  cx="78" cy="20" r="19.5" fill="#FFB900"  stroke-width="1" stroke="#FFB900"  />
+
+  <path class="icon-right" d="M75 14L81 20L75 26" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+<g class="circle-left">
+  <circle cx="21" cy="20" r="19.5" stroke="#FFB900"  stroke-width="1" />
+  <path d="M23 14L17 20L23 26" stroke="#FFB900" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>
