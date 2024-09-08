@@ -601,9 +601,19 @@ section.hero {
 .footer .logo {
   padding-top: 16px;
 }
+.footer .icon-brand svg {
+  width: 180px;
+  height: 26px;
+}
 .footer .icon-brand .icon {
   padding-top: 16px;
   cursor: pointer;
+}
+.footer .icon-brand svg path {
+  transition: fill 0.15s linear;
+}
+.footer .icon-brand .icon:hover path {
+  fill: blue;
 }
 
 .footer .desc {
